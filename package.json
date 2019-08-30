@@ -1,0 +1,20 @@
+{
+  "name": "code-pen-demo",
+  "version": "1.0.0",
+  "description": "My prime Nuxt.js project",
+  "author": "demo",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0",
+    "vue-virtual-scroller": "^1.0.0-rc.2"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.6.0"
+  }
+}
